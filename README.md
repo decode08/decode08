@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 
 -->
 - 🎓 I'm currently pursuing my bachelor's degree in Information Technology.
-- 🤓 I’m currently trying to explore all what I can.
 - 💬 Ask me about Android Studio, Canva, Unity 3D.
 - 🤔 I’m an Android developer (JAVA).
 - 🌱 I’m currently learning **Flutter (App development), AR/VR**
