@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/striking778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="decode08" height="30" width="40" /></a>
           <a href = "mailto: sneha.2125it1071@kiet.edu" target="blank"><img align="center" 
-           src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg"
+           src= "https://th.bing.com/th/id/R.88d88f1872909358b97ffa695cb97b66?rik=A77az%2fwRYB%2bLrw&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f05%2fGmail_logo_icon.png&ehk=8gYQfqc8h6fYCXddKEQE%2blQ7004YVwPu1S2LSHmiUgE%3d&risl=&pid=ImgRaw&r=0"
            alt="gmail" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sneha-aggarwal-129530164/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sneha Aggarwal" height="30" width="40" /></a>
 
