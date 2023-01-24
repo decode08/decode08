@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 - 🎓 I'm currently pursuing my bachelor's degree in Information Technology.
 - 💬 Ask me about Android Studio, Canva, Unity 3D.
-- 🤔 I’m an Android developer (JAVA).
-- 🌱 I’m currently learning **Flutter (App development), AR/VR**
+- 🤔 I’m an **Android developer (JAVA)**.
+- 🌱 I’m currently learning Flutter (App development), AR/VR.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a logical overthinker.
 
