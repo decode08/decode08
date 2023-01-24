@@ -33,9 +33,11 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
            alt="Android Studio" width="40" height="40"/> </a><a href="https://www.java.com/en/" target="_blank">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
-           alt="JAVA" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+           alt="JAVA" width="40" height="40"/></a><a href="https://unity.com/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
-           alt="Unity" width="40" height="40"/><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://isocpp.org//" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"" alt="python" width="40" height"40"/> </a> </p> 
+           alt="Unity" width="40" height="40"/><a href="https://flutter.dev/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+           alt="flutter" width="40" height="40"/></a><a href="https://isocpp.org//" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"" alt="c++" width="40" height"40"/> </a> </p> 
 
 ## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=decode08&show_icons=true&locale=en&layout=compact" alt="decode08" /></p>
