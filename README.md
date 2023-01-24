@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-- 🎓 I'm currently pursuing my bachelor's degree in Information Technology.
-- 💬 Ask me about Android Studio, Canva.
 - 🤔 I’m an **Android developer (JAVA)**.
-- 🌱 I’m learning Flutter (App development), AR/VR.
+- 💬 Ask me about Android Studio, Canva.
+- 🌱 I’m currently learning Flutter (App development), AR/VR.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a logical overthinker.
 
