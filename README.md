@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-- 🤔 I’m an **Android developer (JAVA)**.
+- 🤔 I’m an **Android developer**.
 - 💬 Ask me about Android Studio, Canva.
 - 🌱 I’m currently learning Flutter (App development), AR/VR.
 - 😄 Pronouns: she/her
