@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-- 🙌 Google Developer Students Club (GDSC) Lead at KIET Group of Institutions 
+- 🙌 **Google Developer Students Club (GDSC) Lead** at KIET Group of Institutions 
 - 🤔 I’m a **Flutter developer**.
 - 💬 Ask me about Git, Android Studio, Flutter web, Canva, Unity 3D.
 - 😄 Pronouns: she/her
